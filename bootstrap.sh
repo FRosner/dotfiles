@@ -22,7 +22,6 @@ brew install youtube-dl
 # java
 brew tap caskroom/versions
 brew cask install java8
-brew cask install java9
 brew cask install java
 brew install jenv
 echo "$(jenv init -)" >> ~/.zshrc

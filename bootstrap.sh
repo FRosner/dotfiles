@@ -31,3 +31,6 @@ jenv add /Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home
 # scala
 brew install sbt
 brew install scala
+
+# maven
+brew install maven

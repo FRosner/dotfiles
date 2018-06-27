@@ -34,3 +34,7 @@ brew install scala
 
 # maven
 brew install maven
+
+# utils
+brew install jq
+brew install graphviz

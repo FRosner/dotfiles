@@ -38,3 +38,6 @@ brew install maven
 # utils
 brew install jq
 brew install graphviz
+brew install gettext
+echo 'export PATH="/usr/local/opt/gettext/bin:$PATH"' >> ~/.zshrc
+brew install tree

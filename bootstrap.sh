@@ -41,3 +41,4 @@ brew install graphviz
 brew install gettext
 echo 'export PATH="/usr/local/opt/gettext/bin:$PATH"' >> ~/.zshrc
 brew install tree
+brew install wget

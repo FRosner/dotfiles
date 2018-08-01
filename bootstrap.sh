@@ -35,6 +35,13 @@ brew install scala
 # maven
 brew install maven
 
+# golang
+brew install go
+
+# nodejs
+brew install npm
+brew install yarn
+
 # utils
 brew install jq
 brew install graphviz

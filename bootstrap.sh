@@ -42,6 +42,9 @@ brew install go
 brew install npm
 brew install yarn
 
+# travis CLI
+brew install travis
+
 # utils
 brew install jq
 brew install graphviz
